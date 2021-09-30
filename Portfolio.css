@@ -1,0 +1,222 @@
+.navbar{
+	background:#ffb03a!important;
+	padding:2% 2% 3% 2%;
+	
+	text-transform: uppercase;
+	}
+.navbar a{
+	text-decoration:none;
+	color:#ffffff;
+	display:block;
+	text-align:center;
+	float:right;
+	margin-right:1%;
+	font-size:100%;
+}
+nav a:hover{
+	color:#858585;
+}
+.navimg{
+	height:66%;
+    width:66%;
+	float:left;	
+	margin-left:12%;
+	padding:0.5% 0% 0% 1%;
+}
+
+main {
+		width: 94%;
+		margin: 0 auto;
+	}
+
+html, body {
+	background-color: #ffffff;
+}
+body {
+	margin: 0;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	/*background:#67dbd5;*/
+}
+	
+h1 {
+	font-size: 230%;
+	margin-left:20%;
+	padding: 0;
+}
+
+h1, h2{
+	text-transform: uppercase;
+}
+.hello{
+	margin-left:20%;
+	margin-top:7%;
+	margin-bottom:5%;
+	color:#000000;
+}
+.front{
+	margin-left:20%;
+	margin-top:7%;
+	margin-bottom:5%;
+	color:#000000;
+	font-size:120%;
+}
+
+.left{
+	margin-left:10%;
+	margin-top:5%;
+	font-size:130%;
+    color:#000000;	
+	width:32%;
+	display: inline-block;
+	}
+ .left img{
+	 height:70%; 
+	 width:70%;
+	 margin-top:9%;
+ }
+
+.btn{
+	background:orange;
+	color:#ffffff;
+	border:none;
+	font-size:140%;
+	padding:1%;
+	margin-top:4.5%;
+	margin-left:43%;
+	float:clear;
+}
+.btn:hover{
+    color:#e5e5e5;
+}
+.about{
+	background:#30c199;
+	color:#ffffff;
+	width:100%;
+	height:30%;
+	padding:1% 1% 4% 1%;
+}
+.about img{height:10%; 
+	 width:10%;
+	 margin-top:3%;
+	 margin-left:45%;}
+/*Project styling*/	 
+.project1{
+	background:#2d938a;
+	color:#ffffff;
+	padding:1% 1% 5% 1%;
+	height:10%;
+	width:100%;
+	margin-top:3%;
+}
+.project1 img{
+	margin-left:35%;
+}
+.project2{
+	background:#ffb03a;
+	color:#ffffff;
+	padding:1% 1% 5% 1%;
+	height:10%;
+	width:100%;
+	margin-top:3%;
+}
+.project2 img{
+	margin-left:35%;
+}
+.project3{
+	background:#2d938a;
+	color:#ffffff;
+	padding:1% 1% 5% 1%;
+	height:10%;
+	width:100%;
+	margin-top:3%;
+}
+.project3 img{
+	margin-left:35%;
+}
+.project4{
+	background:#2d938a;
+	color:#ffffff;
+	padding:1% 1% 5% 1%;
+	height:10%;
+	width:100%;
+	margin-top:3%;
+}
+.project4 img{
+	margin-left:35%;
+}
+.project5{
+	background:#2d938a;
+	color:#ffffff;
+	padding:1% 1% 5% 1%;
+	height:10%;
+	width:100%;
+	margin-top:3%;
+}
+.project5 img{
+	margin-left:35%;
+}
+.viewbtn{
+	background:orange;
+	color:#ffffff;
+	width:12%;
+	border:none;
+	/*border-radius:45%;*/
+	font-size:140%;
+	padding:1%;
+	margin-top:4.5%;
+	margin-left:43%;
+}
+.viewbtn:hover{
+    color:#e5e5e5;
+}
+
+/*Skill page styling*/
+.skills{
+	padding:1% 1% 5% 1%;
+	height:10%;
+	width:100%;
+	margin-top:3%;
+	background:#ffb03a;
+}
+.frontend{
+	margin-left:43%;
+}
+.frontend img{
+	margin-left:;
+}
+.programlang {
+	margin-left:47%;
+}
+.database {
+	margin-left:50%;
+}
+/*Get in touch page*/
+.last{
+	background:#ffffff;
+	width:100%;
+	height:30%;
+	padding:1% 1% 4% 1%;
+	margin-top:3%;
+}
+.socio{
+	margin-left:37%;
+	margin-top:5%;
+}
+.social{
+	margin-left:5%;
+}
+
+.btn2{
+	background:orange;
+	color:#ffffff;
+	border:none;
+	font-size:140%;
+	padding:1%;
+	margin-top:4.5%;
+	margin-left:43%;
+	margin-bottom:0 auto;
+}
+.btn2:hover{
+    color:#e5e5e5;
+}
